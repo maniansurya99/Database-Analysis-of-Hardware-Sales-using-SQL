@@ -4,11 +4,11 @@
 This project involved analyzing and optimizing a sales database for a hardware company using SQL. The database contained around 2 million records collected from a data warehouse. The aim of the project was to generate insights on sales trends, automate sales reports, and optimize the database for efficient supply chain management.
 
 ## Tools and Technologies Used
-MySQL Workbench
-SQL
-Stored Procedures
-Database Views
-Triggers
+1) MySQL Workbench
+2) SQL
+3) Stored Procedures
+4) Database Views
+5) Triggers
 
 ## Database Analysis
 The first step was to analyze the database and generate insights on monthly product transactions, total sales amount, and yearly sales report. This was done by creating SQL queries that extracted relevant data and aggregated it to generate reports. Stored Procedures were then used to automate the monthly gross sales reports and market badges.
